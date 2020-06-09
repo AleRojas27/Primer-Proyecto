@@ -1,0 +1,21 @@
+.estiloContainer{
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.verMas p{
+    margin-top: 30px!important;
+}
+
+.fondoGris{
+    background-color: #e0e0e0;
+}
+
+.lineaDerecha{
+    border-left: 0.5px solid gray;
+}
+
+.estiloHijo{
+    padding-top: 40px;
+}
